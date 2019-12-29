@@ -11,6 +11,5 @@ asdklfgkl.lib
 asdklfgkl-test-*
 *.exe
 *.o
-*.obj
 *.lst
 *.dll
